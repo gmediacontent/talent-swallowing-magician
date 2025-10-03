@@ -1,1 +1,2 @@
-# talent-swallowing-magician
+# Talent-Swallowing Magician
+Descendant d’une grande famille de sorciers, Elric Mervinger est incapable de faire de la magie à cause d’une maladie rare. Alors qu’il tente de soigner sa maladie, il tombe sur le démon Méphistophélès, qui tente de posséder Elric pour se libérer du piège d’un dragon. Mais lorsque Elric finit par absorber Méphisto, les deux deviennent liés. Avec Méphisto à ses côtés, ce nouveau pouvoir permettra-t-il à Elric de redonner à sa famille sa gloire d’antan ? Ou finira-t-il par être dévoré ?
